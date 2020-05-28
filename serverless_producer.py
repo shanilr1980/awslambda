@@ -1,5 +1,5 @@
 """
-Dynamo to SQS aws lambda python program
+Dynamo to SQS aws lambda python program ****
 """
 
 import boto3
